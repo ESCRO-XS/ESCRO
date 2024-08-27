@@ -18,8 +18,8 @@ ORANGE = '\033[1;35m'
 BLACK="\033[1;30m"
 
 #####
-bot_token = '7299662118:AAEPcGmDFOWc8NZFhglPwCf55QSVA27_8e0'
-telegram_user_id = '7111952541'
+bot_token = '7023351788:AAF9l95EJhRAJUwIJoi_JV2KEwksUl4w0Ng'
+telegram_user_id = '6229628963'
 os.system('clear')
 logo3 = f'''
 \033[1;31m[\033[1;32mx\033[1;31m]\033[1;32m d88888b .d8888.  .o88b. d8888b.  .d88b.  
